@@ -8,7 +8,7 @@
 
 ## 🙋 À propos de moi
 
-- 🎓 Étudiant en informatique, en train de construire mes compétences pas à pas
+- 🎓 Étudiant en BUT informatique, en train de construire mes compétences pas à pas
 - 🔭 J'apprends et je progresse chaque jour sur mes projets
 - 💼 À la recherche d'un **stage** pour mettre en pratique mes connaissances
 - 🌱 En train d'approfondir mon **Java** et d'explorer de nouveaux frameworks
